@@ -1,4 +1,5 @@
-
+// 1st try (14 min) - eslint was not setup proper
+// 2nd (18 min) - using command line git since linux not not have official git desktop
 
 function sumFor(list) {
   let sum = 0;
