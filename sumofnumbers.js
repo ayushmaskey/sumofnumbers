@@ -1,6 +1,6 @@
 // 1st try (14 min) - eslint was not setup proper
 // 2nd (18 min) - using command line git since linux not not have official git desktop
-// sumtest
+
 function sumFor(list) {
   let sum = 0;
   for (let i = 0; i < list.length; i++) {
